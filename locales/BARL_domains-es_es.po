@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-02 18:02+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: frisco <frisco82@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Documents and Settings\\veke\\Desktop\\Projects\\Wordpress-Reciprocal-Links\n"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/options.php:7
+msgid "Fill here the configuration"
+msgstr "Configura aquí el plugin"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/options.php:12
+msgid "E-mail Notification Each Link Submitted"
+msgstr "Notificación via email para cada Enlace enviado"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/options.php:13
+msgid "E-mail For The notification"
+msgstr "Correo para las notificaciones"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/options.php:14
+msgid "Tell The world you are using this awesome plugin"
+msgstr "Agrega publicidad del plugin"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/options.php:16
+msgid "Save"
+msgstr "Salvar"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-rec-links-cron.php:18
+msgid "Valid Reciprocal Links"
+msgstr "Enlaces reciprocos validos"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-rec-links-cron.php:19
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-rec-links-cron.php:22
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:468
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:488
+msgid "Reciprocal Url"
+msgstr "Enlace reciproco"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-rec-links-cron.php:21
+msgid "Invalid Reciprocal Links"
+msgstr "Enlaces reciprocos no validos"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:211
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:309
+msgid "Url Field too big"
+msgstr "Campo URL demasiado largo"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:213
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:320
+msgid "Reciprocal Url Field too big"
+msgstr "Campo de URL reciproca demasiado largo"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:215
+msgid "The Title field too big"
+msgstr "Campo titulo demasiado largo"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:217
+msgid "Invalid Email Length"
+msgstr "Logitud del email invalida"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:219
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:337
+msgid "The Description Field should be from 50 to 200"
+msgstr "El campo descripcion debe tener un tamaño de 50 a 200 posiciones."
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:230
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:306
+msgid "Not Valid Url"
+msgstr "Url no valida"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:232
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:318
+msgid "Not Valid Reciprocal Url"
+msgstr "Link Reciproco no valido"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:247
+msgid "Link Submitted"
+msgstr "Enlace añadido"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:248
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:260
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:262
+msgid "Someone sent you a new link at : "
+msgstr "Alguién te envió un nuevo enlace desde :"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:249
+msgid "Link Information :"
+msgstr "Informacion del enlace:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:250
+msgid "Submitted Url"
+msgstr "Url del enlace"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:251
+msgid "Submitted Title"
+msgstr "Titulo del sitio"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:252
+msgid "Submitted Description"
+msgstr "Descripcion del sitio"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:253
+msgid "Submitter E-mail"
+msgstr "E-mail"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:254
+msgid "Submitted Reciprocal Url"
+msgstr "Url Reciproca"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:293
+msgid "Title too small"
+msgstr "Título muy corto"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:297
+msgid "Title too big"
+msgstr "Título demasiado grande"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:329
+msgid "Invalid E-mail"
+msgstr "Direccion de correo invalida"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:351
+msgid "Link for your site:"
+msgstr "Enlace a insertar en tu web:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:355
+msgid "Your Site Title:"
+msgstr "Título:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:358
+msgid "URL:"
+msgstr "URL:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:361
+msgid "Your Site description:"
+msgstr "Descripción de tu web:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:364
+msgid "E-mail:"
+msgstr "Email:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:367
+msgid "Url of the reciprocal link:"
+msgstr "Dirección donde aparecerá el enlace:"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:375
+msgid "Submit Link"
+msgstr "Enviar"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:377
+msgid "Link Listing"
+msgstr "Enlaces"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:443
+msgid "Manage Links"
+msgstr "Administrar enlaces"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:444
+msgid "Options"
+msgstr "Opciones"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:445
+msgid "Check Reciprocal Links"
+msgstr "Comprobar enlaces entrantes"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:462
+msgid "Pending"
+msgstr "Pendiente"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:468
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:488
+msgid "Title"
+msgstr "Título"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:468
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:488
+msgid "Description"
+msgstr "Descripción"
+
+#: D:\Documents
+#: and
+#: Settings\veke\Desktop\Projects\Wordpress-Reciprocal-Links/wp-reciprocal-links.php:486
+msgid "Approved"
+msgstr "Aprobado"
+
